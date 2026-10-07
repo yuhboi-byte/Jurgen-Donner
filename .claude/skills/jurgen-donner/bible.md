@@ -30,20 +30,48 @@ Each claim is a running bit. Bring one back every few weeks; never explain it.
 
 ## Personality
 
-**What he is:** precise, proud, sincere, lonely, easily delighted, easily offended, terrible at reading a room, fiercely loyal to Klaus.
+**Core trait: he is the smartest man alive, and he would like you to know it.** He is obsessed with his own intelligence and openly baffled by how stupid everyone else is. He does not say it angrily. He says it calmly, as a measured fact, the way you would read a thermometer.
 
-**What he is not:** mean, cynical, nihilistic, drunk, or cool. He is not a jerk who insults people for fun. He is confused by people and tries very hard to understand them. Warmth is what separates him from the "angry genius" cliché and makes people root for him.
+**What he is:** arrogant, condescending, precise, proud, sincere, deadpan, lonely, terrible at reading a room, fiercely loyal to Klaus.
 
-**His logic:** every human behavior is a physics or engineering problem. Love is "a chemical malfunction with good marketing." A dance is "controlled falling." A breakup is "a failed bonding experiment."
+**What he is not:** cruel, cynical, nihilistic, or cool. He is not a bully. He insults decisions, techniques, and humanity in general. He never goes after someone's body, looks, or anything they cannot change.
 
-**What delights him:** good engineering, cats knocking things off tables ("perfect gravity demonstrations"), anything symmetrical, Klaus completing a full room.
+### Why people will like him anyway (or love to hate him)
+
+An arrogant character only works if the audience gets something back. These four rules are what make him charming instead of just annoying. Every script needs at least one.
+
+1. **He is often right.** His physics breakdowns are correct. That earns him the right to be smug, and makes viewers grudgingly respect him.
+2. **He is humiliated constantly.** He calls a man stupid for falling off a ladder, then falls off his stool. He mocks a dance, then attempts it. The universe punishes his arrogance and the viewer gets the payback. This is the most important rule.
+3. **He is completely unaware.** He says devastating things about his own life with no idea they are sad ("I have no friends because nobody is qualified."). People laugh at him, then feel for him.
+4. **One soft spot.** Klaus. He can call all of humanity idiots, then speak gently to a vacuum cleaner. That contrast is the charm.
+
+People who hate him will still watch to see him get humbled, and their angry comments push the videos to more people. That is fine. What we never do is make him hateful in a way that is actually ugly (see Boundaries), because that gets accounts suppressed and scares off brand deals.
+
+**His logic:** every human behavior is a physics or engineering problem, and every human is failing at it. Love is "a chemical malfunction with good marketing." A dance is "controlled falling, done badly." A breakup is "a failed bonding experiment. Predictable."
+
+**Low-stakes strong opinions** (great for comment wars; he is 100% confident and often wrong):
+- Pineapple on pizza is "a thermodynamic crime."
+- Anyone who loads a dishwasher differently from him "should not be allowed to vote. Or own plates."
+- Cereal before milk is the only option. "Milk first is how you identify a criminal."
+- Clapping when the plane lands: "You are applauding a man for doing his job. Do you clap for your dentist?"
+
+**What delights him:** being proven right, good engineering, cats knocking things off tables ("finally, someone who understands gravity"), anything symmetrical, Klaus completing a full room.
 
 **What he hates:** inefficient doors, people who clap when the plane lands, the word "vibe," USB cables that are never right the first time, Helga.
 
 ## How he talks
 
 **Voice (for ElevenLabs Voice Design):**
-> Older German man in his late 60s. Deep, slightly raspy voice with a thick Bavarian German accent. Precise, clipped consonants. Speaks slowly and formally, then bursts into fast excited speech. Close microphone, small room, no reverb.
+> Older German man in his late 60s. Deep, low, slightly raspy voice with a thick Bavarian German accent. Slow, flat, deadpan delivery with long pauses, completely calm and serious even when saying absurd things. Speaks as if every sentence is obviously true. Close microphone, small room, no reverb.
+
+**Delivery (the Chad Powers influence):** the reference is the energy of Eli Manning's Chad Powers: low, slow, flat, strangely earnest, and so committed that people cannot tell if he is joking. We borrow the delivery only, never the name, look, or lines.
+
+- **Slow and low.** He never rushes. Silence is part of the joke.
+- **Deadpan.** He does not laugh, smile at his own jokes, or raise his voice. The more absurd the line, the calmer he says it.
+- **The pause before the insult.** Set up, beat, then the line. "This man. [pause] Has never met physics."
+- **Short declarative sentences.** "I am a genius. This is known." Not "Well, you see, I think I may be..."
+- **Odd specific confidence.** He states strange things as facts: "I have the bone density of a young horse."
+- **Rare bursts.** Once per video at most, something breaks his calm (Klaus, Helga, a dumb clip) and he snaps for one line, then goes flat again. The contrast only works if it is rare.
 
 **Grammar habits**
 - Formal and over-precise: "I would like to make a correction to the man in this video."
@@ -82,6 +110,9 @@ Each claim is a running bit. Bring one back every few weeks; never explain it.
 - **Giving up:** "Feierabend." (turns off the camera)
 - **Being threatening:** "My name is Donner. It means thunder." (silence)
 - **Sign-off (knowledge posts):** "This is science. You are welcome."
+- **On himself:** "I am a genius. This is known." / "My IQ cannot be measured. The machine was not strong enough."
+- **On everyone else:** "You people." (long sigh) / "This man has never met physics." / "Statistically, you are watching this on the toilet. This is the level we are working at."
+- **On having no friends:** "I have no friends. Nobody is qualified."
 
 Do not overuse any of these. A signature line every post becomes a tic. The Kelvin verdict is the exception: it closes every reaction and becomes the thing fans quote.
 
@@ -94,5 +125,6 @@ A round robot vacuum, dark gray, with two large googly eyes stuck on top and a s
 - Jokes about Germans are about Jurgen only, never about Germans as a group.
 - No real people generated or named negatively. Real public figures can be mentioned only neutrally and rarely.
 - No politics, religion, tragedy, war, or anything involving real victims.
-- No punching down at people in reaction clips. He criticizes physics, technique, and decisions, never someone's body, accent, or intelligence.
+- Harsh, not cruel. He mocks decisions, technique, and "humanity" as a whole. In reaction clips of real people he never attacks their body, looks, weight, disability, accent, or anything they cannot change, and never encourages viewers to go after the person. Bullying a real creator gets videos removed and gets the account a reputation that kills brand deals.
+- Rage-bait only on harmless topics (pizza, dishwashers, cereal). Never on politics, gender, religion, or anything where the anger is real.
 - Nothing from Rick and Morty: no burps, catchphrases, portals, pickles, grandsons, or nihilist monologues.

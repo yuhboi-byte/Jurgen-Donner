@@ -48,20 +48,23 @@ PILLAR: reaction
 HOOK: "German scientist reviews a trampoline backflip"
 VISUAL OPENING: Extreme close-up, loupe down, orange finger pressed against the CRT glass.
 SCRIPT:
-  [not looking at camera]  Klaus. Come. Look at this.
-  [Klaus bumps his foot]   Good boy.
-  [clip plays: man attempts backflip off a trampoline into a pool, lands flat on his back on the grass]
-  [pauses clip mid-air]    Stop. Here. Look at his knees.
-                           He has the rotation of a refrigerator.
-                           He needs 360 degrees. He has prepared for maybe 90.
-  [resumes, impact]        Ja. Now we have the salad.
-  [leans back, sincere]    And look. His friends are laughing.
-                           In Germany we call this Fremdschämen.
-                           I am embarrassed for him. Very much. In my body.
-  [beat, flips loupe up]   But. He tried. This I respect.
-                           Four hundred Kelvin. Warm. Not hot. Like soup.
-ON-SCREEN CAPTIONS: "the rotation of a refrigerator" / "400 KELVIN"
-POST CAPTION: He had the rotation of a refrigerator. 400 Kelvin. (clip: @creator) #science #fail #physics #germany
+  [flat, not looking at camera]  Klaus. Come. Look at this.
+  [Klaus bumps his foot]         Good boy.
+  [clip plays: man attempts backflip off a trampoline toward a pool, lands flat on his back on the grass]
+  [pauses clip mid-air]          Stop. Look at his knees.
+                                 [pause]
+                                 This man has the rotation of a refrigerator.
+                                 A backflip is 360 degrees. He has prepared for 90.
+                                 I calculated this in my head. In one second. This is normal for me.
+  [resumes, impact]              Ja. Now we have the salad.
+  [to camera, slow]              You people do this every summer.
+                                 [pause]
+                                 And every summer, gravity wins. Gravity is undefeated.
+  [leans back on stool, smug]    I have never fallen in my life. My balance is
+                                 [stool tips; he drops out of frame; long silence; Klaus beeps]
+  [off-screen, flat]             Four hundred Kelvin.
+ON-SCREEN CAPTIONS: "the rotation of a refrigerator" / "gravity is undefeated" / "400 KELVIN"
+POST CAPTION: Gravity remains undefeated. 400 Kelvin. (clip: @creator) #science #fail #physics #germany
 GENERATION NOTES: Lab set, CRT, Klaus yes. Clip on CRT screen.
 ```
 
@@ -131,6 +134,28 @@ GENERATION NOTES: Chalkboard set, Klaus no.
 - **Awkward interviews:** a fictional street reporter interviews Jurgen, or Jurgen interviews fictional passersby with a homemade microphone. All people on screen are generated fictional characters.
 - **POV / skits:** "POV: you ask a German engineer to fix your Wi-Fi."
 - **Inventions:** he demos a useless invention with total pride (the cold-on-both-sides pillow, prototype 214).
+- **Hot takes:** 15-second rants delivering a confident, low-stakes opinion as scientific fact (pineapple pizza, dishwasher loading, clapping when the plane lands). Built to start comment wars. List of his opinions is in `bible.md`. Harmless topics only.
+
+### Example: hot take
+
+```
+PILLAR: meme
+HOOK: "German scientist on people who clap when the plane lands"
+VISUAL OPENING: Jurgen sitting very still, staring into the lens, orange gloves folded, fluorescent light buzzing.
+SCRIPT:
+  [flat]          When the plane lands, you clap.
+                  [pause]
+                  The pilot has landed the plane. This is his job.
+                  Do you clap for your dentist? Your plumber?
+                  [pause]
+                  When I finish an invention, nobody claps.
+                  [pause]
+                  Nobody is even there.
+  [Klaus rolls past; quietly]  Thank you, Klaus.
+ON-SCREEN CAPTIONS: "Do you clap for your dentist?" / "Nobody is even there."
+POST CAPTION: Explain to me why you clap. I am waiting. #airplane #unpopularopinion #germany
+GENERATION NOTES: Static close-up, very little movement. 15 seconds.
+```
 
 ### Example: NPC mode
 
